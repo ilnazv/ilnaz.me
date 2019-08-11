@@ -1,8 +1,8 @@
 ## My pet projects
 
-[**folks-parallax:**](https://ilnazv.github.io/folks-parallax/) _Angular 6, parallax.js_
+[**folks-parallax:**](https://ilnazv.github.io/folks-parallax/) _Angular, parallax.js_
 
-[**css-animation-japan**](https://ilnazv.github.io/css-animation-japan/) _Angular 6, Material 6, Flex-Layout, scss_
+[**css-animation-japan**](https://ilnazv.github.io/css-animation-japan/) _Angular, Material_
 
 [**doto**](https://ilnazv.github.io/doto/) _React, Material UI_
 
