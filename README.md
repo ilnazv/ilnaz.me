@@ -1,6 +1,6 @@
 ## My pet projects
 
-[**folks-parallax:**](https://ilnazv.github.io/folks-parallax/) _Angular, parallax.js_
+[**folks-parallax**](https://ilnazv.github.io/folks-parallax/) _Angular, parallax.js_
 
 [**css-animation-japan**](https://ilnazv.github.io/css-animation-japan/) _Angular, Material_
 
