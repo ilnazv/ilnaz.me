@@ -1,12 +1,14 @@
 ## My pet projects
 
-[**folks-parallax**](https://ilnazv.github.io/folks-parallax/) _Angular, parallax.js_
+[**folks-parallax**](https://ilnazv.github.io/folks-parallax/) Parallax effect _Angular, parallax.js_
 
-[**css-animation-japan**](https://ilnazv.github.io/css-animation-japan/) _Angular, Material_
+[**css-animation-japan**](https://ilnazv.github.io/css-animation-japan/) Fancy page loading CSS animation _Angular, Material_
 
-[**doto**](https://ilnazv.github.io/doto/) _React, Material UI_
+[**doto**](https://ilnazv.github.io/doto/) wip _React, Material UI_
 
-[**worms**](https://ilnazv.github.io/worm/) _React, Canvas_
+[**worms**](https://ilnazv.github.io/worm/) Automated Snake game with multiple snakes _React, Canvas_
+
+[**ctrl**](https://ilnazv.github.io/ctrl/) Browser-to-browser communication using Firebase _React, Canvas, Firebase_
 
 ----------------
 
